@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="edkSerializer/Main.cs">
+    <Files>
+      <File FileName="edkSerializer/Main.cs" Line="5" Column="5" />
+      <File FileName="edkSerializer/Serializer.cs" Line="1" Column="1" />
+      <File FileName="edkSerializer/SampleClass.cs" Line="1" Column="1" />
+      <File FileName="edkSerializer/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="edkSerializer/ConversionModule.cs" Line="1" Column="1" />
+      <File FileName="edkSerializer/SerializeProcess.cs" Line="1" Column="1" />
+      <File FileName="edkSerializer/DeserializeProcess.cs" Line="1" Column="1" />
+      <File FileName="edkSerializer/TypeConstants.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
